@@ -1,1 +1,1 @@
-
+I am Rita and I am interested in this class because one of my friends Zhenning recommended this class to me, and I think this class fits my major and careere I want to presue in the future. I want to learn more python analytics skills.
