@@ -1,0 +1,1 @@
+My name is Trent Florey, and I am a senior studying CS. I have a passion for problem solving, and I have always been fascinated by numbers and statistics (particularly sports statistics). I've grown to really enjoy programming as an avenue for creative problem solving, and I'm excited to learn more about data science in this course.
