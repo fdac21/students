@@ -1,1 +1,1 @@
-I am Bailey Perosa, a MS in Business Analytics student (last semester). I went to UTK for undergrad as well, majoring in Business Analytics, and I hope to eventually go the data science route in my career.
+I am Bailey Perosa, a MS in Business Analytics student (last semester). I went to UTK for undergrad as well, majoring in Business Analytics, and I hope to eventually go the data science route in my career. I have a passion for statistics and am very comfortable coding/programming in R. I am excited to become more comfortable in Python throughout the course.
