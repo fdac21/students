@@ -1,0 +1,1 @@
+Hi, my name is Matt Mohandiss. I am a senior with a major in Computer Science and minors in Business and Cybersecurity. I have previously interned at Virginia Systems and Technology, a federal software contractor in the DC area. I am interested in app development, web development, and user experience design. I am very excited for this class! 
