@@ -1,1 +1,6 @@
 My name is Daniel Schultz. I am a computer science PhD student. My interests in this course are data science, big data, and data mining/ML.
+
+Public Key:
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDcRmhb6Dec1KnYCvgetj+bmdCIhZnv3LhyhgCXPlXGrmqFhdjxd0SXXAuNtzdSzMfRbcxvfKf9kSK2nv/pt5nq/hXRbKPtMrKcG4xU8vkvVrLwpo3/fO3j9Zwd6c95+RTuWgFk1X/aatBCxKwwXc23LneMoF77PTxLtAmIkIi1pCDPig3XnDa531AMWhrnedkXlcCfJgsvSzsf6CZJdbqxcBTlIR03p2pDcfVZ6ye8gItx+2/GCVOAdmwNJsob3RdjYHEQcSeZ9d5xdo+b2/k4fKtM9QVJIbL2bU6GKldWr19zFhSIzHrxCDA+LgbgqWC/8mcU768bKMigLeth9JjSrwS/RtDr2cmXF3MB3f81QyyWGgmo2Ogdfl/jCiQMBiPrzxQ6f9RcG0ARldcUUpoZelTv17JslTZ82DCop/NJ5idzgITSU88wGEuC0gDTsrH71hj9sBMG8ymoUxBeED7rNjd+tYXVX6NYecHP0a9QrBN4kAAS43Cmm1HSXycUg08= dschult9@dschult9-rocm
+
