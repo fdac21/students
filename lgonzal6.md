@@ -1,3 +1,5 @@
-I am Luis Gonzalez Villalobos, and I am a Computer Engineering senior. Over the summer, I worked on obtaining several Data Analysis certifications
-which use Python and several libraries such as Numpy for quick and easy processing of data and Matplotlib to generate several visualizations with the data that was processed.
-I am hoping to get better and more agile using Python overall. 
+I am Luis Gonzalez Villalobos, and I am a senior in Computer Engineering. 
+Over the course of this summer, I worked in obtaining several Data Analysis 
+certifications which use Python and several libraries, such as Numpy, for quick 
+and easy processing of dataframes, and Matplotlib, for generation of data
+visualizations which help for easy readability. I am hoping to get better and more agile using Python overall. 
