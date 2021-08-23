@@ -1,0 +1,1 @@
+I am Benjamin Greenberg and I am a 1st year grad student in Computer Science. I work as a GRA at the Joint Institute for Computational Sciences (JICS) department of UTK out at ORNL. I like Python and hope to improve my data analyzing skills through this course. I also enjoy cooking and occasionally baking in my spare time.
