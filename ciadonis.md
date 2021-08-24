@@ -1,0 +1,1 @@
+I'm Caitlin Iadonisi, and I'm a junior pursuing a Computer Science degree. I'm from the suburbs of Philadelphia, PA, and I really love to cook. I'm interesting in this class because of the data science aspect.
