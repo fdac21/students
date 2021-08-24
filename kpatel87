@@ -1,1 +1,0 @@
-I am Kishan Patel, and I am a senior computer science student. I have been working as an intern at Oculus Imaging in Knoxville, Tennessee. As a computer science, you would think I like coding, but my mind has changed over the years. I want to do DevOps and focus more on cloud and data analysis. So I'm looking forward to gaining more information about data science and analysis. 
