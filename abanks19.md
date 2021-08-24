@@ -1,0 +1,1 @@
+My name is Andrew Banks and I am a seinor majoring in computer science. Previously, I have taken Mockus's CS 340 class so I am familiar with his style of teaching. I am interested in programming, creative writting, philosophy, and gaming.
