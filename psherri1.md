@@ -1,0 +1,1 @@
+Hello, my name is Parker Sherrill and I am in my final year studying computer science. I enjoy working out and making music in my free time. I am also from Memphis, TN. I cannot wait to get started in the course!
