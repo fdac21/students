@@ -1,0 +1,1 @@
+I am Xinyu Cao and I am a second year graduate school student major in business analytics. I like problem solving and story telling from data, I also want to strengthen my python skills and have a better understanding of data science from the computer science perspective. 
