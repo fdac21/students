@@ -1,0 +1,1 @@
+Hey, I am Riley Barklow, a 5th year senior with an interest in game design looking to finish my CS degree this year. I decided to take this class in order to learn more about data science and data handling through programming.
