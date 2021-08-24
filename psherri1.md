@@ -1,1 +1,1 @@
-Hello, my name is Parker Sherrill and I am in my last year studying computer science. my hobbies include working out, making music, hanging out with friends on the weekends. I am from Memphis, Tennessee and i am excited to be in the course!
+Hello, my name is Parker Sherrill and I am in my last year studying computer science. My hobbies include working out, making music, hanging out with friends on the weekends. I am from Memphis, Tennessee and i am excited to be in the course!
