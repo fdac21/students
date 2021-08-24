@@ -1,0 +1,1 @@
+My name is Shreyank Patel. I'm a undergraduate senior majoring in Computer Science and Economics. My areas of interest include web development and cyptrography. I'm excited to learn about data management in the cloud.
