@@ -1,0 +1,1 @@
+I am Walter Squires. I am a first year PhD student working in Dr. Kim's lab where I am currently doing research on code signing certificates. My interests outside of academia are games and eating.

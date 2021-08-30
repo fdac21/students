@@ -1,0 +1,1 @@
+My name is Yang. I'm an MS student in Business Analytics. I'm interested in applying data science in the healthcare industry to support the deverlopment of digital health. I've been using Python, SQL and R for my data analytics work.

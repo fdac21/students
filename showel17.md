@@ -1,0 +1,1 @@
+I am Spencer Howell, and I am a fifth year student in the 5-Year BS/MS program for computer science at the University of Tennessee, Knoxville. During my time at UT, I have interned at Garmin as a mobile app engineer, mainly focusing on Android apps. I am also interested in web development, Flutter development, and user interface design. I am excited for this course! 

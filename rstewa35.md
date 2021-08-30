@@ -1,0 +1,1 @@
+I am Ryan Stewart and I'm a senior majoring in Computer Science. For over a year and a half now, I have worked at Trimble as a Software Engineering Intern. I like programming and I'm looking forward to gaining more experience using Python to manage large data sets.

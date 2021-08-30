@@ -1,0 +1,1 @@
+I am Jessica Hamilton, a Masters student in Business Analytics in the Haslam College Business. I graduated with my undergraduate degree in Marketing from UTK in 2019. I am interested in learning more about python's data science capabilities in this course.

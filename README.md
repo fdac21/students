@@ -8,7 +8,7 @@ Please provide at least one sentence on your background and one sentence on your
 > passion with you teaching this course. 
 
 Please make sure there is a sentence I am Firstname Lastname' in your `utknetid.md`. Your utknetid is 
-the part of your email address that preceeds "@vols.utk.edu".
+the part of your email address that precedes "@vols.utk.edu".
 
 Follow the remaining instructions in [initial tasks](https://github.com/fdac21/news/blob/master/Preliminary.md)
 
@@ -21,7 +21,7 @@ will have assigned roles in your teams (coordinator, recorder, checker, etc.)
 that rotate among the members. You may be inclined to ignore these role
 assignments and just do the work in any way that
 comes to mind, or maybe one team member will
-actually do the coordinating all semester no matter who is supposed
+do the coordinating all semester no matter who is supposed
 to be doing it for a given
 assignment. That's a mistake. I strongly advise you
 to take the roles seriously --- your work will go more
@@ -39,7 +39,7 @@ recopying them in a single handwriting to make it
 look more like a unified effort). Don't do it! On
 tests and/or when you report on your work, you
 will be examined individually on every aspect of
-the assignment, and your grade will depend in part
+the assignment and your grade will depend in part
 on how well you understand both the part that you
 mainly did and all the other parts. Before you hand
 anything in, go over it in detail and make sure
@@ -59,7 +59,7 @@ details.
 Your team will have a number of responsibilities as it completes
 problem and project assignments. 
 
-* Designate a coordinator, recorder and checker for each
+* Designate a coordinator, recorder, and checker for each
 assignment. Add a monitor for 4-person teams.  Rotate these roles
 for every assignment. Designate one member to be ready to present
 the work in front of the class. 
@@ -78,12 +78,12 @@ repository before the meeting.
 remind them of when and where they will meet and what they are
 supposed to do.
 
-* Meet and work. Coordinator keeps everyone on task and makes sure
+* Meet and work. The coordinator keeps everyone on task and makes sure
 everyone is involved, recorder prepares the final solution and
 creates the pull request to submit it, monitor checks to makes sure
 everyone understands both the solution and the strategy used to get
-it, and checker double-checks it before it is handed in. Agree on
-next the meeting time and roles for next assignment. For teams of
+it, and checker double-checks it before it is handed in. Agree on the 
+next meeting time and roles for the next assignment. For teams of
 three, the same person should cover the monitor and checker roles.
 
 * Review returned assignments, read any comments made in the pull
@@ -95,10 +95,10 @@ three, the same person should cover the monitor and checker roles.
 her name should not be included on the completed work. If the problem persists, the team should meet with
 the instructor so that the problem can be resolved, if possible. If the problem still continues, the cooperating
 team members may notify the uncooperative member in writing that he/she is in danger of being fired,
-sending a copy of the memo to the instructor. If there is no subsequent improvemnt, they should notify the
+sending a copy of the memo to the instructor. If there is no subsequent improvement, they should notify the
 individual in writing (copy to the instructor) that he/she is no longer with the team. The fired student should
 meet with his/her instructor to discuss options. Similarly, students who are consistently doing all the work
-for their team may issue a warning memo that they will quit unless they start getting cooperation, and a
+for their team may issue a warning memo that they will quit unless they start getting cooperation and a
 second memo quitting the team if the cooperation is not forthcoming. Students who get fired or quit must
 either find another team willing to add them as a member or get zeroes for the remaining assignments.
 As you will find out, group work isn't always easy --- team members sometimes cannot prepare for or attend

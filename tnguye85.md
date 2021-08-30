@@ -1,0 +1,1 @@
+My name is Tan Nguyen. I am senior at UTK for Computer Science with minor is Cyber Security. I am interesting in AI/ML and tool a ML course in Spring 2021. Again, I take this course to know more about big data in training ML.
