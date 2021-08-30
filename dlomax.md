@@ -1,0 +1,1 @@
+I am Dylan Lomax. I have primarily worked for you maintaining and improving the website worldofcode.org. Through working on that website I have grown to really enjoy web devlopment (especially with JavaScript), which I would say is current main programming interest. My non-programming interests would be running, playing piano, and reading.

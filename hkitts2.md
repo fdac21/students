@@ -1,0 +1,1 @@
+I am Hunter Kitts and I am a senior studying computer science. I am coming back to college after six years where I worked several jobs to put my wife through college. I have interests in programming, electronics, video games, cars, guitar, and drawing. 

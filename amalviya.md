@@ -1,0 +1,1 @@
+I am Addi Malviya Thakur, I am a Ph.D. Computer Science student. I also work at Oak Ridge National Laboratory when I am not in school. I am looking forward to work on exciting data problems and challenges. I am passionate about Data Science, Software Engineering, and Artificial Intelligence.

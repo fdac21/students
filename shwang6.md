@@ -1,0 +1,1 @@
+Hi everyone! My name is Sehee Hwang, and I'm a senior majoring in computer science. I'm interested in UX and would like to find a career in that field. I decided to take this class purely out of curiosity - I want to learn more about about a field of CS that I'm not familiar with yet. I look forward to meeting everyone and learning new concepts in this class!

@@ -1,0 +1,1 @@
+I am Gregory Brown, a junior in CS, I am familiar with Kotlin, Python, and C++ and am very interested in Cybersecurity, as well as Data Science. Outside of class, I like going to the gym, reading, and playing video games

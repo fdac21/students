@@ -1,0 +1,1 @@
+Hello. My name is William Johnson and I am an undergraduate student majoring in Computer Science and minoring in Cybersecurity. I am taking this course since I am curious about digital archaeology, but this course is also for my cybersecurity minor. For hobby, I am interested in web development, anything from NodeJS, ReactJS, Redux, MongoDB, GraphQL, or Redis.
