@@ -1,0 +1,1 @@
+Hi, my name is Daniel Troutman. I completed my undergraduate degree in the spring but am back to get my MS in computer science. I really enjoy learning new technologies and am excited to do cool projects this semester.

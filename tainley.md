@@ -1,0 +1,1 @@
+  My name is Tristan Ainley and I am a 5th year student, majoring in CS. I have zero experience with Github but feel relatively comfortable with Python. After switching majors during my 3rd year, I'm still trying to figure out what I'm interested in and received a recommendation for this class from a friend who took it.

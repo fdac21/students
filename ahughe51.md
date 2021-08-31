@@ -1,0 +1,1 @@
+Hi, I'm Allen Hughes. I am a junior computer science major hoping to get more CS languages under my belt. My interests include video games and design so I hope to be able to merge those interests together in the game development industry in the future.
