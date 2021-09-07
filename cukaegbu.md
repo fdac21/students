@@ -1,1 +1,1 @@
-
+My name is Henry, last semester in MS Business Analytics and I had my undergraduate in Physics. During the summer, I had the opportunity to work as a Data Scientist intern at Amazon.  My project focus was on shipment forecasting and I am in this class to improve my skills in Data Science and know-how to handle data cleaning and missing data.
