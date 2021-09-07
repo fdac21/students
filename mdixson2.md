@@ -1,1 +1,1 @@
-
+I am Matthew Dixson. I am a senior undergraduate CS major with a cybersecurity minor. This last summer I had an internship at ORNL with the Cybersecurity Research Group. I'm continuing to work with them this semester. I am interested in anything that has to do with cybersecurity. I am excited to learn more about digital archaeology this semester. 
