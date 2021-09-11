@@ -19,7 +19,7 @@
 |7815|dmaioran|dmaiorano|maiorano|daniel|
 |7816|dschult9|dschult9|schultz|daniel|
 |7817|dtroutm1|daniel-troutman|troutman|daniel|
-|7818|fxie6|Fraklin-Xie|xie|franklin|
+|7818|fxie6|Franklin-Xie|xie|franklin|
 |7819|fxu11|feixu727|xu|fei|
 |7820|gbrown39|gregbro2|brown|gregory|
 |7821|hkitts2|hkitts|kitts|hunter|
